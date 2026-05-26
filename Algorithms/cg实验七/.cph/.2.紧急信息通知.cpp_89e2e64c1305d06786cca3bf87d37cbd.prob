@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\Code\\Algorithm-Notes\\CSP-Lanqiao-Solutions\\Algorithms\\cg实验七\\2.紧急信息通知.cpp","tests":[{"id":1779762411179,"input":"3 2\n1 2\n2 3\n3 1\n1 2\n0 0","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Algorithm-Notes\\CSP-Lanqiao-Solutions\\Algorithms\\cg实验七\\2.紧急信息通知.cpp","group":"local","local":true}
